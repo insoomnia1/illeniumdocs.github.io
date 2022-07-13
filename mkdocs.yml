@@ -22,7 +22,6 @@ theme:
     - navigation.indexes
     - toc.follow
     - navigation.top
-    - navigation.tabs
 extra:
   homepage: https://docs.illenium.dev
   social:
@@ -46,3 +45,5 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - tables
+extra_css:
+  - stylesheets/extra.css
