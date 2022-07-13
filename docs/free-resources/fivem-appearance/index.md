@@ -1,4 +1,6 @@
-# fivem-appearance
+---
+title: fivem-appearance
+---
 
 [![Lint](https://github.com/iLLeniumStudios/fivem-appearance/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/iLLeniumStudios/fivem-appearance/actions/workflows/lint.yml)
 
