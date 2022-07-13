@@ -1,6 +1,5 @@
 ---
 title: "fivem-appearance (aj, mirrox1337 etc)"
-weight: 1
 ---
 
 - Delete `player_outfits` table from the database

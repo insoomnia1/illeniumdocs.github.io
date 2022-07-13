@@ -1,6 +1,5 @@
 ---
 title: "qb-clothing"
-weight: 2
 ---
 
 - Connect to your server

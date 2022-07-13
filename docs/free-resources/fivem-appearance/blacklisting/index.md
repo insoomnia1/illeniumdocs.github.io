@@ -1,6 +1,5 @@
 ---
 title: "Blacklisting"
-weight: 3
 ---
 
 !!! important

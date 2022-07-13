@@ -1,6 +1,5 @@
 ---
 title: "Blacklisting Clothes"
-weight: 1
 ---
 
 fivem-appearance supports blacklisting clothes based on the following criterion:

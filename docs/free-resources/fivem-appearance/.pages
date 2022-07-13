@@ -1,0 +1,8 @@
+nav:
+- Introduction: intro.md
+- Installation: installation.md
+- Multicharacter: multicharacter
+- Migration: migration
+- Blacklisting: blacklisting
+- Themes: themes
+- ...
