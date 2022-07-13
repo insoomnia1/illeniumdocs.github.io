@@ -1,3 +1,25 @@
 site_name: iLLeniumStudios Docs
 theme:
   name: material
+  palette:
+  - scheme: default
+    media: "(prefers-color-scheme: light)"
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+    primary: light blue
+  - scheme: slate
+    media: "(prefers-color-scheme: dark)"
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+    primary: light blue
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+extra:
+  homepage: https://docs.illenium.dev
