@@ -23,3 +23,12 @@ theme:
     - navigation.top
 extra:
   homepage: https://docs.illenium.dev
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/iLLeniumStudios
+    - icon: fontawesome/brands/discord 
+      link: https://discord.illenium.dev
+  generator: false
+plugins:
+  - search
+copyright: Copyright &copy; 2022 iLLeniumStudios
