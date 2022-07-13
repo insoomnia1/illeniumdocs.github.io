@@ -1,4 +1,5 @@
 site_name: iLLeniumStudios Docs
+site_url: https://docs.illenium.dev
 theme:
   name: material
   palette:
