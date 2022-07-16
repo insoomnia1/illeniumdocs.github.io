@@ -1,4 +1,4 @@
-# Player Managed Outfits
+# Boss Managed Outfits
 
 This feature allows Job / Gang bosses to manage outfits for their Job / Gang. They will automatically be added to their respective clothing rooms.
 
