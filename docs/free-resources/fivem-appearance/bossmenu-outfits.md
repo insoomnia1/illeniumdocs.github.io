@@ -6,13 +6,13 @@ This feature allows Job / Gang bosses to manage outfits for their Job / Gang. Th
 
 - qb-management
 
-**Note:** You **HAVE** to use my version of qb-management until my PR is merged to the official one.
+**Note:** You **HAVE** to update to the latest version of qb-management or it will not work.
 
 ### Setup instructions
 
-- Download my qb-management version from [here](https://github.com/TheiLLeniumStudios/qb-management/tree/dynamic-menuitems)
-- Replace the old one with the downloaded one
-- Make sure to remove `-dynamic-menuitems` from the folder name (If it exists)
+- Download the latest qb-management from [here](https://github.com/qbcore-framework/qb-management)
+- Delete the old one and add the new one in your resources
+- Make sure to remove `-main` from the folder name (If it exists)
 - Apply the SQL schema for the `management_outfits` table from [here](https://raw.githubusercontent.com/iLLeniumStudios/fivem-appearance/main/sql/management_outfits.sql)
 - Enable Player Managed outfits by setting `Config.BossManagedOutfits` to `true` in `shared/config.lua`
 - Restart the server
