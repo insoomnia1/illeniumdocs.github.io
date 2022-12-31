@@ -2,10 +2,10 @@
 
 !!! note
 
-    Since qb-multicharacter or any other multicharacter is dependent on the default `qb-clothing` resource, it requires some changes in order to adapt to `fivem-appearance`.
+    Since qb-multicharacter or any other multicharacter is dependent on the default `qb-clothing` resource, it requires some changes in order to adapt to `illenium-appearance`.
 
 
-fivem-appearance supports the following multicharacter resources:
+illenium-appearance supports the following multicharacter resources:
 
 - [qb-core/qb-multicharacter](qb-core-qb-multicharacter.md)
 - [OwenT1/qb-multicharacter](OwenT1-qb-multicharacter.md)

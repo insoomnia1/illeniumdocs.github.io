@@ -2,7 +2,7 @@
 title: Theme Configuration
 ---
 
-fivem-appearance comes with 2 themes, `default` and `qb-core` and `qb-core` is set as the default one.
+illenium-appearance comes with 2 themes, `default` and `qb-core` and `qb-core` is set as the default one.
 
 ### Switch between themes
 
@@ -16,7 +16,7 @@ Change `currentTheme` to the theme `id`. You can choose between `qb-core` and `d
 
 ### Theme parameters
 
-You can customize every theme using the parameters defined in `theme.json`. Following table explains a little bit about what each parameter can do
+You can customize every theme using the parameters defined in `shared/theme.lua`. Following table explains a little bit about what each parameter can do
 
 | Parameter                  | Description                                                   |
 |:----------------------------|:---------------------------------------------------------------|
