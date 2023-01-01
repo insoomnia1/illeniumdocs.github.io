@@ -9,5 +9,5 @@ title: "Blacklisting"
 
 ### Enabling ACE permissions
 
-- Add `add_ace resource.fivem-appearance command.list_aces allow` to server.cfg
+- Add `add_ace resource.illenium-appearance command.list_aces allow` to server.cfg
 - Set `Config.EnableACEPermissions` to `true` in `shared/config.lua`
