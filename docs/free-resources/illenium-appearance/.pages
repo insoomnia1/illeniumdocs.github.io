@@ -1,10 +1,11 @@
 nav:
 - Introduction: intro.md
-- Installation: installation.md
+- Installation: installation
 - Multicharacter: multicharacter
 - Migration: migration
 - Blacklisting: blacklisting
 - Themes: themes.md
 - Enabling RadialMenu: radial-menu.md
 - Player Managed Outfits: bossmenu-outfits.md
+- FAQs: faqs.md
 - ...

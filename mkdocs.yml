@@ -37,7 +37,7 @@ plugins:
   - awesome-pages
   - mkdocs-video
 
-copyright: Copyright &copy; 2022 iLLeniumStudios
+copyright: Copyright &copy; 2023 iLLeniumStudios
 markdown_extensions:
   - admonition
   - pymdownx.details
