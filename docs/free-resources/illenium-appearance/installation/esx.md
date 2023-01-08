@@ -1,3 +1,7 @@
+---
+title: "ESX Installation"
+---
+
 ### Folowing features are not yet supported in ESX
 
 - Boss Managed Outfits (Config.BossManagedOutfits)

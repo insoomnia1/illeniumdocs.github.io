@@ -1,3 +1,7 @@
+---
+title: "qb-core Installation"
+---
+
 ### Remove Old Clothing Resources
 
 - Delete `qb-clothing` or `fivem-appearance` from your resources folder
