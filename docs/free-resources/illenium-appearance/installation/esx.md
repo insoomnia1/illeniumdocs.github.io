@@ -20,7 +20,7 @@ title: "ESX Installation"
 
 - Download the latest `ox_lib.zip` from [here](https://github.com/overextended/ox_lib/releases/latest)
 - Open `ox_lib.zip` and copy the `ox_lib` folder to your server's `resources` folder
-- Add `ensure ox_lib` right after `ensure qb-core` in your server.cfg 
+- Add `ensure ox_lib` right after `ensure es_extended` in your server.cfg 
 
 ### Download illenium-appearance
 
