@@ -55,5 +55,6 @@ ensure illenium-appearance
       "skinchanger"
   }
   ```
+
   - at the end of illenium-appearance/fxmanifest.lua file and save
 - Restart your server
