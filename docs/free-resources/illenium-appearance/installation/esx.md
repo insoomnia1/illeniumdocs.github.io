@@ -41,10 +41,8 @@ ensure illenium-appearance
 
 - Delete the table `player_outfits` and `playerskins` table (if you don't want to migrate) from your database
 - Apply the following SQL files to your database to have the new tables created:
-
   - [player_outfits](https://github.com/iLLeniumStudios/illenium-appearance/blob/main/sql/player_outfits.sql)
 - Do 1 of the following:
-
   - Search for `esx_skin` and `skinchanger` in all fxmanifest.lua files of your resources and remove all those lines
   - OR
   - Add
@@ -55,6 +53,6 @@ ensure illenium-appearance
       "skinchanger"
   }
   ```
-
   - at the end of illenium-appearance/fxmanifest.lua file and save
+
 - Restart your server
