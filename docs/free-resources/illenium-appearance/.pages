@@ -1,6 +1,7 @@
 nav:
 - Introduction: intro.md
 - Installation: installation
+- Upgrading: upgrading
 - Multicharacter: multicharacter
 - Migration: migration
 - Blacklisting: blacklisting

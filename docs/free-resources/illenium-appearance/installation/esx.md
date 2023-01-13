@@ -50,6 +50,7 @@ ensure  illenium-appearance
 - Apply the following SQL files to your database to have the new tables created:
 
 	- [player_outfits](https://github.com/iLLeniumStudios/illenium-appearance/blob/main/sql/player_outfits.sql)
+  - [player_outfit_codes](https://github.com/iLLeniumStudios/illenium-appearance/blob/main/sql/player_outfit_codes.sql)
 
 - Do 1 of the following:
 

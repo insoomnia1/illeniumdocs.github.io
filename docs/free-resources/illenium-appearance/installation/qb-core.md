@@ -32,5 +32,6 @@ ensure illenium-appearance
 - Apply the following SQL files to your database to have the new tables created:
     - [playerskins](https://github.com/iLLeniumStudios/illenium-appearance/blob/main/sql/playerskins.sql)
     - [player_outfits](https://github.com/iLLeniumStudios/illenium-appearance/blob/main/sql/player_outfits.sql)
+    - [player_outfit_codes](https://github.com/iLLeniumStudios/illenium-appearance/blob/main/sql/player_outfit_codes.sql)
 - Remove `qb-clothing` from the `dependencies` section of fxmanifest.lua in `qb-houses` and `qb-apartments`
 - Restart your server
