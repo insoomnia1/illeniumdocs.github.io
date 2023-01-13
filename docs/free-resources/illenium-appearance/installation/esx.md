@@ -1,8 +1,5 @@
-
 ---
-
 title: "ESX Installation"
-
 ---
 
 ### Folowing features are not yet supported in ESX
