@@ -14,3 +14,9 @@ This is how the migration would look like:
 ![type:video](https://streamable.com/e/ydxoqb)
 
 Follow the respective guide based on your old clothing resource
+
+## Supported Migrations
+
+## [ESX / esx_skin](esx/esx_skin.md)
+## [qb-core / fivem-appearance](qb-core/fivem-appearance.md)
+## [qb-core / qb-clothing](qb-core/qb-clothing.md)
