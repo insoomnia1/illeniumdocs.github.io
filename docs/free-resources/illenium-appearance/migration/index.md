@@ -17,6 +17,7 @@ Follow the respective guide based on your old clothing resource
 
 ## Supported Migrations
 
-## [ESX / esx_skin](esx/esx_skin.md)
 ## [qb-core / fivem-appearance](qb-core/fivem-appearance.md)
 ## [qb-core / qb-clothing](qb-core/qb-clothing.md)
+## [ESX / esx_skin](esx/esx_skin.md)
+## [ESX / fivem-appearance](esx/fivem-appearance.md)
