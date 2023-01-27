@@ -1,8 +1,8 @@
 ---
-title: "Blacklisting Clothes"
+title: "Blacklisting Clothes / Hair"
 ---
 
-illenium-appearance supports blacklisting clothes based on the following criterion:
+illenium-appearance supports blacklisting clothes / hair based on the following criterion:
 
 - Jobs
 - Gangs
