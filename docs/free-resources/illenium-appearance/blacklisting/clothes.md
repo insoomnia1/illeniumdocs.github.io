@@ -18,6 +18,7 @@ Masks: 14 (Texture: 5, 7, 10, 12, 13)
 Jackets: 25, 30, 35 (Accessible only to "police" job)
 Hats: 41, 42, 45 (Accessible only to "ballas" gang)
 Scarfs & Chains: 5, 6, 7 (Accessible only to "vip" ACE)
+Hair: 15 (All textures)
 ```
 
 Here is how the config would look like, for the above:
@@ -25,6 +26,11 @@ Here is how the config would look like, for the above:
 ```lua title="shared/blacklist.lua"
 Config.Blacklist = {
     male = {
+        hair = {
+            {
+                drawables = {15}
+            }
+        },
         components = {
             masks = {
                 {
