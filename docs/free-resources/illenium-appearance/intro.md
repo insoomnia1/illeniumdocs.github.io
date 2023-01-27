@@ -37,8 +37,8 @@ Discord: https://discord.illenium.dev
 - Skin migration support (qb-clothing / old fivem-appearance / esx_skin)
 - Player specific outfit locations (Restricted via CitizenID)
 - Makeup Secondary Color
-- Blacklist / Limit Hair, Components & Props to certain Jobs / Gangs / ACEs (Allows you to have VIP clothing on your Server)
-- Blacklist / Limit Peds to certain Jobs / Gangs / ACEs
+- Blacklist / Limit Hair, Components & Props to certain Jobs / Gangs / CitizenIDs / ACEs (Allows you to have VIP clothing on your Server)
+- Blacklist / Limit Peds to certain Jobs / Gangs / ACEs / CitizenIDs
 - Persist Job / Gang Clothes on reconnects / logout
 - Themes Support (Default & QBCore provided out of the box)
 - Disable Components / Props Entirely (Clothing as items support)

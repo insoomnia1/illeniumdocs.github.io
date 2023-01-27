@@ -7,6 +7,7 @@ illenium-appearance supports blacklisting clothes / hair based on the following 
 - Jobs
 - Gangs
 - ACEs
+- CitizenIDs
 
 The way it works is that you need to add the blacklist configuration to `shared/blacklist.lua`.  The default file contains all the component names that you can choose to blacklist. For example if you want to blacklist following items:
 
@@ -19,6 +20,7 @@ Jackets: 25, 30, 35 (Accessible only to "police" job)
 Hats: 41, 42, 45 (Accessible only to "ballas" gang)
 Scarfs & Chains: 5, 6, 7 (Accessible only to "vip" ACE)
 Hair: 15 (All textures)
+Shirts: 16 (Accessible only to "ZUM10723" CitizenID / Identifier)
 ```
 
 Here is how the config would look like, for the above:
@@ -51,7 +53,12 @@ Config.Blacklist = {
                     aces = {"vip"}
                 }
             },
-            shirts = {},
+            shirts = {
+                {
+                    drawables = {16},
+                    citizenids = {"ZUM10723"}
+                }
+            },
             bodyArmor = {},
             decals = {},
             jackets = {
