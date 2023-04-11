@@ -1,5 +1,17 @@
 # Frequently Asked Questions
 
+### How do I see the logs?
+
+1. Open Grafana URL
+2. Login
+3. Click `Explore` from the left menu
+4. Choose a label to query
+5. Click `Run Query`
+
+### I don't understand how to query my logs. Any guides?
+
+See: https://grafana.com/docs/loki/latest/logql/
+
 ### Can I run this on Windows?
 
 No.
