@@ -136,6 +136,10 @@ Patiently wait for it to finish as it will take some time to complete. Once fini
 
  ![](https://i.ibb.co/ry8HSxs/image.png)
 
+!!! info
+
+    You will also be presented with the ox_lib config that you can use in the next step. Make sure to take note of that.
+
 You now have both Loki and Grafana running. You can open up the Grafana URL and login using the credentials to see if it works.
 
 The installer automatically configures Loki as the default Datasource so you don’t need to do anything in Grafana except for looking at the logs
