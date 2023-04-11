@@ -16,7 +16,7 @@ You will get all the convars that are needed for ox_lib at the end of the instal
 set ox:logger "loki"
 set loki:user "admin"
 set loki:key "supersecurepassword"
-set loki:key "https"
+set loki:protocol "https"
 set loki:endpoint "loki.fivem-loki-demo.illenium.gg"
 ```
 
