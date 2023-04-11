@@ -1,0 +1,4 @@
+nav:
+- Setup: setup.md
+- Using ox_lib with Loki: ox_lib.md
+- Frequently Asked Questions: faq.md
