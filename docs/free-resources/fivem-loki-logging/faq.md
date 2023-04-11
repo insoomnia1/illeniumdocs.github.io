@@ -10,7 +10,7 @@
 
 ### I don't understand how to query my logs. Any guides?
 
-See: https://grafana.com/docs/loki/latest/logql/
+See docs on [LogQL](https://grafana.com/docs/loki/latest/logql/)
 
 ### Can I run this on Windows?
 
