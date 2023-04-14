@@ -6,7 +6,7 @@ You will need a Linux VM / VPS with the following specs:
 
 | Name | Minimum | Recommended |
 |----|----|----|
-| OS | Linux (Ubuntu 22.04) | Linux (Ubuntu 22.04) |
+| OS | Ubuntu 22.04 / Debian 11 | Ubuntu 22.04 / Debian 11 |
 | CPU | 2 vCPU | 4 vCPU |
 | RAM | 2 GB | 4 GB |
 | Disk | 20 GB | 50 GB |
@@ -36,6 +36,9 @@ I can recommend the following providers:
   ```bash
   sudo su -
   ```
+
+> Note: If you're using Debian then use `su -`
+
 * Now install `git` by running the following commands
 
   ```bash
