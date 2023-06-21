@@ -28,7 +28,8 @@ ensure qb-core
 ensure ox_lib
 ensure illenium-appearance
 ```
-- Delete the table `player_outfits` and `playerskins` table (if you don't want to migrate) from your database
+- Delete the `player_outfits` table from your database
+- Delete the `playerskins` table (only if you don't want to migrate) from your database
 - Apply the following SQL files to your database to have the new tables created:
     - [playerskins](https://github.com/iLLeniumStudios/illenium-appearance/blob/main/sql/playerskins.sql)
     - [player_outfits](https://github.com/iLLeniumStudios/illenium-appearance/blob/main/sql/player_outfits.sql)
